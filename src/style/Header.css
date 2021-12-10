@@ -1,0 +1,118 @@
+.header {
+  background: #26254f;
+  height: 80px;
+  width: 100%;
+  padding: 0 200px;
+}
+.header__text {
+  font-size: 50px;
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+  color: white;
+}
+.header__links {
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+  justify-content: flex-end;
+  display: flex;
+  padding: 30px;
+}
+.header__links_link {
+  margin-left: 80px;
+  cursor: pointer;
+  font-size: 30px;
+  letter-spacing: 0;
+}
+.header__links_link:hover {
+  color: white;
+  text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white,
+    0 0 20px rgba(49, 79, 177, 0.98), 0 0 35px cornflowerblue,
+    0 0 40px cornflowerblue, 0 0 50px cornflowerblue, 0 0 75px cornflowerblue;
+  transition: all 0.2s;
+  border-bottom: solid;
+}
+
+/*Media Query*/
+
+/*tablets, ipads (portrait)*/
+@media (min-width: 768px) and (max-width: 1024px) {
+  .header {
+    padding: 0 90px;
+  }
+}
+/*tablets, ipads (landscape)*/
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .header {
+    padding: 0 20px;
+  }
+  .header__links_link {
+    margin-left: 40px;
+  }
+}
+/*low resolution tablets, mobiles (landscape)*/
+@media (min-width: 425px) and (max-width: 767px) {
+  .header__links {
+    font-size: 20px;
+    justify-content: flex-start;
+    display: flex;
+    padding: 42px;
+  }
+  .header__text {
+    font-size: 30px;
+    justify-content: flex-start;
+    padding: 10px;
+  }
+  .header {
+    padding: 0;
+  }
+  .header__links_link {
+    margin-left: 40px;
+    font-size: 25px;
+  }
+}
+@media (min-width: 375px) and (max-width: 424px) {
+  .header__text {
+    font-size: 30px;
+    display: contents;
+    padding: 10px;
+  }
+  .header__links {
+    padding: 7px;
+    justify-content: center;
+  }
+  .header__links_link {
+    margin-left: 20px;
+    font-size: 24px;
+  }
+  .header {
+    padding: 0 20px;
+  }
+  .details__info {
+    margin: 20px 15px;
+  }
+}
+/*smartphones mobiles (portrait)*/
+@media (min-width: 320px) and (max-width: 374px) {
+  .header__text {
+    font-size: 30px;
+    display: contents;
+    padding: 10px;
+  }
+  .header__links {
+    padding: 7px;
+    justify-content: center;
+  }
+  .header__links_link {
+    margin-left: 20px;
+    font-size: 24px;
+  }
+  .header {
+    padding: 0 20px;
+  }
+  .details__info {
+    margin: 20px 15px;
+  }
+}

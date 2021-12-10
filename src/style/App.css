@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Passion+One:wght@400;700;900&display=swap");
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Passion One", cursive;
+}
+body,
+html {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.contents {
+  background-image: url(./../assets/img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 130px);
+  width: 100%;
+}
+
+/*Media Query*/
+@media (min-width: 425px) and (max-width: 767px) {
+  .contents {
+    height: 100%;
+    padding: 20px;
+  }
+}
+@media (min-width: 320px) and (max-width: 424px) {
+  .contents {
+    height: 100%;
+    padding: 20px;
+  }
+}
