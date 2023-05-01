@@ -3,11 +3,7 @@
 ## A clean, beautiful and responsive react portfolio template for Developers!
 
 
-<p align="center">
-  <kbd>
-<img src="https://github.com/kaustubhai/portfolio-template/blob/master/public/portfolio-example.gif?raw=true"></img>
-  </kbd>
-</p>
+
 
 
 Just change `src/profile.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
