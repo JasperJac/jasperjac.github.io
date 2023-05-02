@@ -1,4 +1,4 @@
-# Web Developer React Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kaustubhai/portfolio-template?color=blue)](https://github.com/kaustubhai/portfolio-template/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kaustubhai/portfolio-template)](https://github.com/kaustubhai/portfolio-template/stargazers)
+# Web Developer React Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/JasperJac/JasperJac?color=blue)](https://github.com/JasperJac/JasperJac/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/JasperJac/JasperJac)](https://github.com/JasperJac/JasperJac/stargazers)
 
 ## A clean, beautiful and responsive react portfolio template for Developers!
 
@@ -11,10 +11,10 @@ Just change `src/profile.js` to get your personal portfolio. Feel free to use it
 To Update the image go to `src/styles/images.css`  
 To change colors, go to `src/styles/style.css`
 
-But if you want to **contribute** and make this much better for other developer raise a [Issue](https://github.com/kaustubhai/portfolio-template/issues).
+But if you want to **contribute** and make this much better for other developer raise a [Issue](https://github.com/JasperJac/JasperJac/issues).
 
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/JasperJac/JasperJac/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -54,10 +54,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kaustubhai/portfolio-template.git
+$ git clone https://github.com/JasperJac/JasperJac.git
 
 # Go into the repository
-$ cd portfolio-template
+$ cd JasperJac
 
 # Install dependencies
 $ npm install
@@ -100,13 +100,13 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kaustubhai/portfolio-template)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JasperJac/JasperJac)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
 
 ## For the Future
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/JasperJac/JasperJac/pulls).
 
 - Connect with Github API to get Pinned Projects directly
 
