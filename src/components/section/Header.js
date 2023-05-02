@@ -31,7 +31,7 @@ const Header = () => {
         <div className='HeaderImage'>
             <div className="Header">
                 <h1>{ `I'm ${header.name}` }</h1>
-            <p className="line-1 anim-typewriter">and this is my portfolio... </p>
+            <p className="line-1 anim-typewriter">and this is my portfolio.... </p>
             <HeaderButton/>
             </div>
             <img id="not-dark" onClick={scrollTo} alt="Contact Me" title="Contact Me" className="gtp" src="profile.png"></img>
