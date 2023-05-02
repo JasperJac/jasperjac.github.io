@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2a0d9ac.chunk.css",
+    "main.js": "/static/js/main.b926c360.chunk.js",
+    "main.js.map": "/static/js/main.b926c360.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.888ef2b1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.888ef2b1.js.map",
+    "static/js/2.b87c550b.chunk.js": "/static/js/2.b87c550b.chunk.js",
+    "static/js/2.b87c550b.chunk.js.map": "/static/js/2.b87c550b.chunk.js.map",
+    "static/js/3.1aa7a194.chunk.js": "/static/js/3.1aa7a194.chunk.js",
+    "static/js/3.1aa7a194.chunk.js.map": "/static/js/3.1aa7a194.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f2a0d9ac.chunk.css.map": "/static/css/main.f2a0d9ac.chunk.css.map",
+    "static/js/2.b87c550b.chunk.js.LICENSE.txt": "/static/js/2.b87c550b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg.dfbd3e01.png",
+    "static/media/discord.9b8696ce.svg": "/static/media/discord.9b8696ce.svg",
+    "static/media/letter.7c6d4de7.svg": "/static/media/letter.7c6d4de7.svg",
+    "static/media/skype.780fc25d.svg": "/static/media/skype.780fc25d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.888ef2b1.js",
+    "static/js/2.b87c550b.chunk.js",
+    "static/css/main.f2a0d9ac.chunk.css",
+    "static/js/main.b926c360.chunk.js"
+  ]
+}
