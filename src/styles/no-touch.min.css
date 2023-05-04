@@ -39,7 +39,7 @@ button:focus {
   font-family: Montserrat, sans-serif;
 }
 .Header h1 {
-  color: #ec0f0f;
+  color: #faf8f8;
   text-align: center;
   font-size: 5.5rem;
   position: absolute;
@@ -201,6 +201,7 @@ button:focus {
 .image-project {
   height: 300px;
   width: auto;
+  text-align: left;
   margin-bottom: 20px;
   overflow: hidden;
   cursor: pointer !important;
@@ -466,7 +467,7 @@ input:checked + .slider:before {
 }
 .anim-typewriter {
   animation: typewriter 4s steps(27) 1s 1 normal both,
-    blinkTextCursor 0.5s steps(27) infinite normal;
+    blinkTextCursor 0.4s steps(27) infinite normal;
     cursor:zoom-in;
 }
 .parallax {
@@ -479,7 +480,7 @@ input:checked + .slider:before {
     
   }
   to {
-    width: 15em;
+    width: 20em;
    
   }
   

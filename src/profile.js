@@ -91,45 +91,24 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
+    name: "Hashtology",
     skills: ["Nodejs, CSS, JavaScript"],
     url: "https://github.com/JasperJac",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
+    name: "NFTir",
     skills: ["TypeScript, ReactJS, JavaScript"],
     url: "https://github.com/JasperJac",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
+    name: "Calibrated Peer Review",
     skills: ["ReactJs, JavaScript, JS"],
     url: "https://github.com/JasperJac",
-  },
-  {
-    // Add image in './styles/images.css' in #project4
-    id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/JasperJac",
-  },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/JasperJac",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/JasperJac",
-  },
+  }
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it

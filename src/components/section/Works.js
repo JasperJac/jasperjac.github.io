@@ -1,5 +1,6 @@
 import React from 'react'
 import Project from '../layouts/Project'
+import Education from '../layouts/Education'
 import { projects, miscellaneous, section3Title, section4Title } from '../../profile'
 
 const Works = () => {
@@ -24,7 +25,7 @@ const Works = () => {
                 </div>
                 <div className='center'>
                     {miscellaneous && miscellaneous.map((x) =>
-                        <Project key={x.id} id={x.id} url={x.url} name={x.name} skills={x.skills} />
+                        <Education key={x.id} id={x.id} url={x.url} name={x.name} skills={x.skills} />
                     )}
                 </div>
             </div>

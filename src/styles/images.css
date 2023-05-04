@@ -5,32 +5,34 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url('./../img/project_image.png');
+    background-image: url('./../img/project1.svg');
     cursor: none;    
 }
 .project2{
-    background-image: url('./../img/project_image.png');
+    background-image: url('./../img/project2.svg');
     cursor: none;
 }
 .project3{
-    background-image: url('./../img/project_image.png');
+    background-image: url('./../img/project3.svg');
     cursor: none;
 }
 .project4{
-    background-image: url('./../img/project_image.png');
+    background-image: url('./../img/project1.svg');
     cursor: none;
 }
 .project5{
-    background-image: url('./../img/project_image.png');
+    background-image: url('./../img/project2.svg');
     cursor: none;
 }
 .project6{
-    background-image: url('./../img/project_image.png');
+    background-image: url('./../img/project3.svg');
     cursor: none;
 }
 /* Miscelaneous Activities photo */
 
 .misc2{
-    background-image: url('./../img/HKU.png');
+    background-image: url('./../img/HKU.svg');
+    background-size:cover;
+    background-position: left center;
     cursor: none;
 }
