@@ -99,14 +99,14 @@ const projects = [
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "NFTir",
-    skills: ["TypeScript, ReactJS, JavaScript"],
+    skills: ["Docker, go, JavaScript"],
     url: "https://github.com/JasperJac",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "Calibrated Peer Review",
-    skills: ["ReactJs, JavaScript, JS"],
+    skills: ["ReactJs, JavaScript, Java"],
     url: "https://github.com/JasperJac",
   }
 ];
